@@ -30,7 +30,7 @@ create table ALUNO(
    );
 
  create table GRUPO(
-   id_grup varchar(7),
+   id_grup_link varchar(7),
    nome_grup varchar2(30),
    id_alu varchar(7),
    id_prof varchar(7),
